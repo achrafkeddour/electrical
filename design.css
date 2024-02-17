@@ -363,6 +363,9 @@ h3 {
     .cta h1 {
       font-size: 20px;
     }
+    .cta {
+      width:90%;
+    }
   }
   
   /* 
