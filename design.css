@@ -216,8 +216,8 @@ h3 {
   .course-col {
     height:250px !important; 
     width: 80vw;
-    margin-bottom: 20px;
     box-shadow: 0 0 4px 4px #ccaae723;
+    margin: 0 auto 20px;
   } 
   .course-col:hover {
     box-shadow: 0 0 10px 0px rgba(92, 67, 235, 0.747);
