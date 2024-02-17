@@ -147,7 +147,7 @@
   
  
 .course {
-  width: 80%;
+  width: 90%;
   margin: auto;
   text-align: center;
   padding-top: 100px;
@@ -166,7 +166,7 @@ p {
 .row {
   margin-top: 5%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 .course-col {
   
